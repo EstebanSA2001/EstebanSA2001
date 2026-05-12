@@ -1,8 +1,10 @@
-# Technologies & Skills:
+# Technical Skills & Tools
+
+Technologies & Skills:
 
 Python, Java, C++, JavaScript, HTML | APIs & backend integrations | Google Apps Script | Machine Learning & AI integrations | Power Automate, n8n & Microsoft Power Platform | UiPath & PegaSystems | VBA & macro automation | PCB Design | Industrial Electronics & Power Electronics | ISA 5.1 Standards | Technical drawing interpretation
 
-🛠 CAD & Industrial Design:
+AD & Industrial Design:
 
 SolidWorks | Fusion 360 | Autodesk Inventor | AutoCAD | Laser cutting workflows | 3D printing with Bambu Lab printers
 
