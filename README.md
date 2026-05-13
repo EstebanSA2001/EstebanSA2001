@@ -12,7 +12,7 @@ English | Spanish | Portuguese
 
 You can find me on:
 
-[![Gmail](https://img.shields.io/badge/-estebansuarezadames%40gmail.com-FF0007?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:estebansuarezadames@gmail.com)
+[![Gmail](https://img.shields.io/badge/-estebansuarezadames%40gmail.com-991212?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:estebansuarezadames@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esteban-suarez-adames-926394235/)
 [![Instagram](https://img.shields.io/badge/Instagram-5E079C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/esteb4n.bat)
 
